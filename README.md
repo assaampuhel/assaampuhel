@@ -1,4 +1,4 @@
-# Asaph Samuel's GitHub Repository
+# My GitHub Repository
 
 Hey there! 👋 I'm Asaph Samuel, a passionate programmer currently in class 11 at Indian School Muscat. Welcome to my GitHub repository, where I share my projects, achievements, and learnings in the world of programming.
 
