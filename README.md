@@ -22,8 +22,6 @@ Hey there! 👋 I'm Asaph Samuel, a passionate programmer currently in class 11 
 - 📝 [Brief description of the project]
 - 🛠️ [Technologies/languages used]
 
-...
-
 ## Skills
 
 - 💻 Programming Languages: ['Python', 'HTML', 'CSS']
