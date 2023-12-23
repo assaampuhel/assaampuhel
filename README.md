@@ -10,15 +10,15 @@ Hey there! 👋 I'm Asaph Samuel, a passionate programmer currently in class 11 
 
 ## Achievements
 
-- 🏆 [First Place in Hackathon conducted by Global College Engineering and Technology]
+- 🏆 First Place in Hackathon conducted by Global College Engineering and Technology
 - 🚀 [Highlight any significant projects or contributions]
 - 📚 [Mention any certifications or courses completed]
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: AI Finance Asistance Chatbot
 
-- 📂 [Link to the project repository]
+- 📂 Find it <a href=""
 - 📝 [Brief description of the project]
 - 🛠️ [Technologies/languages used]
 
